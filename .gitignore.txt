@@ -1,0 +1,10 @@
+# Ignore the file containing secret API keys
+.env
+
+# Ignore Python virtual environments
+venv/
+*.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
